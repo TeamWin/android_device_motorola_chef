@@ -25,7 +25,7 @@ Check here: https://github.com/ixmoe/android_kernel_motorola_sdm636
 
 ```sh
 . build/envsetup.sh
-lunch omni_beckham-eng
+lunch omni_chef-eng
 make -j4 recoveryimage
 ```
 ### Copyright
