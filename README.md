@@ -1,4 +1,4 @@
-# TWRP Device configuration for Motorola Moto Z3 Play
+# TWRP Device configuration for Motorola Moto One Power
 
 ## Device specifications
 
@@ -19,7 +19,7 @@ Front Camera | 12 MP (f/2.2)
 ![Device Picture](https://i-cdn.phonearena.com//images/phones/73027-xlarge/Motorola-One-Power-5.jpg)
 
 ### Kernel Source
-Check here: https://github.com/ixmoe/android_kernel_motorola_sdm636
+Check here: https://github.com/ixmoe/android_kernel_motorola_sdm660
 
 ### How to compile
 
