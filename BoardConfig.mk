@@ -123,6 +123,9 @@ TW_EXCLUDE_MTP := true
 TW_EXTRA_LANGUAGES := true
 # TW_DEFAULT_LANGUAGE := zh_CN
 
+# Enable twrp to be installed from .img file
+TW_INCLUDE_REPACKTOOLS := true
+
 # Debug flags
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
