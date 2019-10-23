@@ -47,10 +47,10 @@ PRODUCT_PACKAGES_DEBUG += \
 
 # Boot control HAL
 PRODUCT_PACKAGES += \
-    bootctrl.sdm660
+    bootctrl.SDM660
 
 PRODUCT_STATIC_BOOT_CONTROL_HAL := \
-    bootctrl.sdm660 \
+    bootctrl.SDM660 \
     libgptutils \
     libz \
     libcutils
